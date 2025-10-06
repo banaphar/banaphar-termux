@@ -23,6 +23,5 @@ A futuristic, neon sci-fi terminal for Termux, with galaxy/star animation, styli
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/banaphar-terminal.git
-cd banaphar-terminal
+git clone https://github.com/banaphar/banaphar-termux.git
 bash install.sh
