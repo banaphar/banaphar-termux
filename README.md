@@ -1,4 +1,4 @@
-# BANAPHAR Galaxy Terminal v7 ⚔️
+# BANAPHAR Galaxy Terminal  ⚔️
 
 A futuristic, neon sci-fi terminal for Termux, with galaxy/star animation, stylish banners, and minimal prompt.
 
