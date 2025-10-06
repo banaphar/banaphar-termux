@@ -4,7 +4,7 @@
 
 echo "🔹 Updating packages..."
 pkg update -y && pkg upgrade -y
-
+pkg install ncurses-utils -y
 echo "🔹 Installing required packages..."
 pkg install -y bash nano figlet toilet ruby coreutils
 
